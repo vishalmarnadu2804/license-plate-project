@@ -18,8 +18,10 @@ To extract vehicle number plate text from static images.
 	2.	Convert image to grayscale
 	3.	Apply preprocessing (resize, blur, threshold)
 	4.	Extract text using OCR
+	
 ▶️ How to Run
 python3 plate.py
+
 📷 Output
 	•	Displays processed image
 	•	Prints detected license plate number in terminal
